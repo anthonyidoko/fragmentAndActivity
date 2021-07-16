@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Portrait 1</string>
+    <string name="stateChange">State</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="add_fragment">Add Fragment</string>
+    <string name="remove_fragment">Remove Fragment</string>
+    <string name="back">Back</string>
+</resources>
